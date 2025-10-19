@@ -1,4 +1,4 @@
-# Simple HTML Website
+# Basic HTML Website
 
 This is a simple multi-page website built using only HTML. It includes:
 
@@ -7,6 +7,7 @@ This is a simple multi-page website built using only HTML. It includes:
 - Articles page
 - Contact form
 
-## 🔗 Live Demo
+
+    https://github.com/Alone-xoxo/simple-html-website
 
 [View Website](https://Alone-xoxo.github.io/Basic-HTML-Website/)
