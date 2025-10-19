@@ -6,8 +6,6 @@ This is a simple multi-page website built using only HTML. It includes:
 - Projects page
 - Articles page
 - Contact form
-
-
-    https://github.com/Alone-xoxo/Basic-HTML-Website/
-
+- 
+  [project URl](https://roadmap.sh/projects/basic-html-website)
 [View Website](https://Alone-xoxo.github.io/Basic-HTML-Website/)
